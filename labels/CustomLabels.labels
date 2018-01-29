@@ -28,4 +28,27 @@
 24
 25</value>
     </labels>
+    <labels>
+        <fullName>Cls3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cls3</shortDescription>
+        <value>66
+65
+64
+61
+62
+63</value>
+    </labels>
+    <labels>
+        <fullName>CustomLabel1</fullName>
+        <categories>test</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CustomLabel1</shortDescription>
+        <value>11
+12
+13
+14</value>
+    </labels>
 </CustomLabels>
