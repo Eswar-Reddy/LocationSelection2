@@ -20,6 +20,14 @@
         <members>MyWorld</members>
         <members>Welcome31</members>
         <name>ApexClass</name>
+    </types
+	 <types>
+        <members>CL</members>
+        <members>Cls1</members>
+        <members>Cls2</members>
+        <members>Cls3</members>
+        <members>CustomLabel1</members>
+        <name>CustomLabel</name>
     </types>
     
     <version>37.0</version>
